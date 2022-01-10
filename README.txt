@@ -10,3 +10,6 @@ git checkout - --> 최신 커밋
 
 
 충돌
+
+
+pull request 
