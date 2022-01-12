@@ -19,3 +19,6 @@ fork - clone - commit -push - pullrequst - review -approve - submit  review -mer
 git rebase pr 충돌 
 
 git rebase and pull request 
+
+
+amend 
