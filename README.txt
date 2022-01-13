@@ -21,4 +21,6 @@ git rebase pr 충돌
 git rebase and pull request 
 
 
-amend 
+amend -> amend
+
+cherry
