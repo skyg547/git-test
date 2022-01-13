@@ -22,3 +22,11 @@ git rebase and pull request
 
 
 amend 
+
+
+
+bad
+cherry
+
+good!!!!!!! - want commited
+
