@@ -23,6 +23,7 @@ git rebase and pull request
 
 amend 
 
+second clone and push 
 
 
 bad
