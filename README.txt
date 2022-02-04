@@ -25,6 +25,8 @@ amend
 
 second clone and push 
 
+git commit -a 스테이징 생략 
+
 
 bad
 cherry
