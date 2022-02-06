@@ -84,3 +84,10 @@ Head^ 숫자 부모커밋 HEAD^2 는 병합 커밋 처럼 두번재 부모
 
 ______------------------------
 
+git rest --hard는
+
+git checkout Head~
+git branch -f master
+git checkout master 
+
+
