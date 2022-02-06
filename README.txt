@@ -60,7 +60,8 @@ Head는 현재 작업중인 브랜치를 가리킵니다.
 결국 head는 현재 작업 중인 브랜치의 최근 커밋을 가리킵니다. 
 
 -------------------------------------
-
+git log --oneline --all : 로그 확인 
+-------------------------
 
 
 git revert 를 사용해서 
@@ -90,4 +91,4 @@ git checkout Head~
 git branch -f master
 git checkout master 
 
-
+--------------------
