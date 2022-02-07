@@ -1,1 +1,5 @@
+
 기능 1 추가
+
+git log --oneline --graph --all -n2
+master
