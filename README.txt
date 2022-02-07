@@ -71,7 +71,7 @@ c1 -< f1 <- c2 <- f2 < -c3
 f 를 제거 할때 
 revert
 git revert f1 
-git revert f2 
+git revert f2  
 
 -----------------------------------
 
@@ -91,4 +91,6 @@ git checkout Head~
 git branch -f master
 git checkout master 
 
---------------------
+------------------
+
+git tag -a -m <메시지> <tagname>[브랜치 or 체크섬 ]
